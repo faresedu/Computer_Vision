@@ -42,5 +42,6 @@ To dive into the code and notes related to each topic, navigate to the respectiv
 This study is based on the "Advance Computer Vision with Python" course, and I would like to express my gratitude to the course instructors for providing valuable insights and knowledge in the field of computer vision.
 
 Feel free to reach out for any questions or collaborations!
+https://www.youtube.com/watch?v=01sAkU_NvOY&list=PLh226kydk72ciwz_QlXPfiUWer7dCVXA6&index=5
 
 Happy coding! 🚀
